@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
+  <component name="CidrRootsConfiguration">
+    <sourceRoots>
+      <file path="$PROJECT_DIR$/lib/boost_1_83_0" />
+      <file path="$PROJECT_DIR$/lib/boost_1_83_0/boost/asio" />
+      <file path="$PROJECT_DIR$/lib/boost_1_83_0/doc" />
+      <file path="$PROJECT_DIR$/lib/boost_1_83_0/libs" />
+      <file path="$PROJECT_DIR$/lib/boost_1_83_0/libs/asio" />
+      <file path="$PROJECT_DIR$/lib/boost_1_83_0/more" />
+      <file path="$PROJECT_DIR$/lib/boost_1_83_0/status" />
+      <file path="$PROJECT_DIR$/lib/boost_1_83_0/tools" />
+      <file path="$PROJECT_DIR$/lib/json-develop" />
+      <file path="$PROJECT_DIR$/lib/json-develop/include" />
+    </sourceRoots>
+    <libraryRoots>
+      <file path="$PROJECT_DIR$/lib" />
+    </libraryRoots>
+  </component>
+</project>

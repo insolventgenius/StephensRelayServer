@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/StephensRelayServer.dir/main.cpp.o CMakeFiles/StephensRelayServer.dir/RelayService.cpp.o -o StephensRelayServer 

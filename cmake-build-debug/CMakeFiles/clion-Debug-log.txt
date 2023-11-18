@@ -1,4 +1,4 @@
 "/Applications/CLion 2023.3 EAP.app/Contents/bin/cmake/mac/aarch64/bin/cmake" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/Applications/CLion 2023.3 EAP.app/Contents/bin/ninja/mac/aarch64/ninja" -G Ninja -S /Users/stephen/CLionProjects/StephensRelayServer -B /Users/stephen/CLionProjects/StephensRelayServer/cmake-build-debug
--- Configuring done (0.0s)
+-- Configuring done (0.1s)
 -- Generating done (0.0s)
 -- Build files have been written to: /Users/stephen/CLionProjects/StephensRelayServer/cmake-build-debug
